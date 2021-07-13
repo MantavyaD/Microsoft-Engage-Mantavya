@@ -1,7 +1,7 @@
 
-Find the FrontEnd repository [here](https://github.com/MantavyaD/MS-teams-frontend)
+**Find the FrontEnd repository** [here](https://github.com/MantavyaD/MS-teams-frontend)
 
-Find the Backend repository [here](https://github.com/MantavyaD/MS-teams-server)
+**Find the Backend repository** [here](https://github.com/MantavyaD/MS-teams-server)
 
 
 <details open="open">
