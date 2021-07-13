@@ -78,9 +78,8 @@ The Live website of the Teams Clone web application can be found [here](http://m
 Follow these steps
 
 - Install Nodejs in your computer. 
-- Clone the repository.
+- Clone the backend and the frontend repositories whose link is given at the top
 
-  ``git clone https://github.com/MantavyaD/Microsoft-Engage-Mantavya.git``
 
 - Open the server folder and in a terminal run :  `npm install`
 - Run the command : `npm start` ,this will start the backend express server
